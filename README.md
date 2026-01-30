@@ -31,7 +31,7 @@ This project presents an **AI-powered decision-support system** that predicts **
 
 ---
 
-## ** Problem Statement
+##  Problem Statement
 
 > Agricultural markets frequently experience mismatches between food supply and consumer demand, resulting in food wastage, price volatility, and income loss for farmers.
 
