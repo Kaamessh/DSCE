@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+xgboost
+joblib
+scikit-learn==1.6.1
+transformers
+peft
+accelerate
+bitsandbytes
+torch
+huggingface-hub
+fastapi
+uvicorn

@@ -1,0 +1,7 @@
+{
+  "ok": false,
+  "errors": [
+    "Deserialization failed for supply_model.pkl: Failed to deserialize 'supply_model.pkl'. Ensure compatible package versions (e.g., xgboost, scikit-learn).",
+    "Deserialization failed for encoders.pkl: Failed to deserialize 'encoders.pkl'. Ensure compatible package versions (e.g., xgboost, scikit-learn)."
+  ]
+}

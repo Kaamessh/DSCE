@@ -1,0 +1,6 @@
+﻿Cols: ['State', 'District', 'Commodity', 'Min_Price', 'Max_Price', 'Modal_Price', 'Weather', 'Season', 'Festival_Flag', 'Demand_Index', 'month', 'year', 'week', 'day', 'arrival_lag_7', 'arrival_lag_30', 'arrival_roll_7', 'arrival_roll_30']
+Shape: (1, 18)
+   State  District  Commodity  ...  arrival_lag_30  arrival_roll_7  arrival_roll_30
+0      0         0          0  ...               0               0                0
+
+[1 rows x 18 columns]

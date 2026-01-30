@@ -1,0 +1,4 @@
+﻿Loading artifacts...
+Artifacts loaded: ['supply_model', 'demand_model', 'encoders', 'feature_columns', 'supply_fallback']
+Sample input: {'State': 'Maharashtra', 'District': 'Pune', 'Commodity': 'Onions', 'Weather': 'Summer', 'Season': 'Rabi', 'Festival_Flag': 0, 'Min_Price': 10.0, 'Max_Price': 20.0, 'Modal_Price': 15.0, 'Arrival_Quantity': 100.0, 'month': 5, 'week': 20}
+Prediction: {'supply': 2.0, 'demand': 519.686767578125, 'excess': -517.686767578125, 'using_fallback': True}

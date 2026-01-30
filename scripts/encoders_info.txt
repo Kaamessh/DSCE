@@ -1,0 +1,7 @@
+﻿{
+  "State": 5,
+  "District": 25,
+  "Commodity": 15,
+  "Weather": 3,
+  "Season": 2
+}

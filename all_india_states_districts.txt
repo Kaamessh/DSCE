@@ -1,0 +1,476 @@
+
+ANDHRA PRADESH:
+Alluri Sitarama Raju
+Anakapalli
+Ananthapuramu
+Annamayya
+Bapatla
+Chittoor
+Dr. B.R. Ambedkar Konaseema
+East Godavari
+Eluru
+Guntur
+Kakinada
+Krishna
+Kurnool
+Nandyal
+NTR
+Palnadu
+Parvathipuram Manyam
+Prakasam
+Srikakulam
+Sri Potti Sriramulu Nellore
+Sri Sathya Sai
+Tirupati
+Visakhapatnam
+Vizianagaram
+West Godavari
+YSR Kadapa
+
+ARUNACHAL PRADESH:
+Anjaw
+Changlang
+Dibang Valley
+East Kameng
+East Siang
+Kamle
+Kra Daadi
+Kurung Kumey
+Lepa Rada
+Lohit
+Longding
+Lower Dibang Valley
+Lower Siang
+Lower Subansiri
+Namsai
+Pakke Kessang
+Papum Pare
+Shi Yomi
+Siang
+Tawang
+Tirap
+Upper Siang
+Upper Subansiri
+West Kameng
+West Siang
+
+ASSAM:
+Baksa
+Barpeta
+Biswanath
+Bongaigaon
+Cachar
+Charaideo
+Chirang
+Darrang
+Dhemaji
+Dhubri
+Dibrugarh
+Dima Hasao
+Goalpara
+Golaghat
+Hailakandi
+Hojai
+Jorhat
+Kamrup
+Kamrup Metropolitan
+Karbi Anglong
+Karimganj
+Kokrajhar
+Lakhimpur
+Majuli
+Morigaon
+Nagaon
+Nalbari
+Sivasagar
+Sonitpur
+South Salmara-Mankachar
+Tinsukia
+Udalguri
+West Karbi Anglong
+
+BIHAR:
+Araria
+Arwal
+Aurangabad
+Banka
+Begusarai
+Bhagalpur
+Bhojpur
+Buxar
+Darbhanga
+East Champaran
+Gaya
+Gopalganj
+Jamui
+Jehanabad
+Kaimur
+Katihar
+Khagaria
+Kishanganj
+Lakhisarai
+Madhepura
+Madhubani
+Munger
+Muzaffarpur
+Nalanda
+Nawada
+Patna
+Purnia
+Rohtas
+Saharsa
+Samastipur
+Saran
+Sheikhpura
+Sheohar
+Sitamarhi
+Siwan
+Supaul
+Vaishali
+West Champaran
+
+CHHATTISGARH:
+Balod
+Baloda Bazar
+Balrampur
+Bastar
+Bemetara
+Bijapur
+Bilaspur
+Dantewada
+Dhamtari
+Durg
+Gariaband
+Gaurela-Pendra-Marwahi
+Janjgir-Champa
+Jashpur
+Kabirdham
+Kanker
+Kondagaon
+Korba
+Koriya
+Mahasamund
+Mungeli
+Narayanpur
+Raigarh
+Raipur
+Rajnandgaon
+Sukma
+Surajpur
+Surguja
+
+GOA:
+North Goa
+South Goa
+
+GUJARAT:
+Ahmedabad
+Amreli
+Anand
+Aravalli
+Banaskantha
+Bharuch
+Bhavnagar
+Botad
+Chhota Udaipur
+Dahod
+Dang
+Devbhoomi Dwarka
+Gandhinagar
+Gir Somnath
+Jamnagar
+Junagadh
+Kheda
+Mahisagar
+Mehsana
+Morbi
+Narmada
+Navsari
+Panchmahal
+Patan
+Porbandar
+Rajkot
+Sabarkantha
+Surat
+Surendranagar
+Tapi
+Vadodara
+Valsad
+
+HARYANA:
+Ambala
+Bhiwani
+Charkhi Dadri
+Faridabad
+Fatehabad
+Gurugram
+Hisar
+Jhajjar
+Jind
+Kaithal
+Karnal
+Kurukshetra
+Mahendragarh
+Nuh
+Palwal
+Panchkula
+Panipat
+Rewari
+Rohtak
+Sirsa
+Sonipat
+Yamunanagar
+
+HIMACHAL PRADESH:
+Bilaspur
+Chamba
+Hamirpur
+Kangra
+Kinnaur
+Kullu
+Lahaul and Spiti
+Mandi
+Shimla
+Sirmaur
+Solan
+Una
+
+JHARKHAND:
+Bokaro
+Chatra
+Deoghar
+Dhanbad
+Dumka
+East Singhbhum
+Garhwa
+Giridih
+Godda
+Gumla
+Hazaribagh
+Jamtara
+Khunti
+Koderma
+Latehar
+Lohardaga
+Pakur
+Palamu
+Ramgarh
+Ranchi
+Sahebganj
+Seraikela Kharsawan
+Simdega
+West Singhbhum
+
+KARNATAKA:
+Bagalkot
+Ballari
+Belagavi
+Bengaluru Rural
+Bengaluru Urban
+Bidar
+Chamarajanagar
+Chikkaballapur
+Chikkamagaluru
+Chitradurga
+Dakshina Kannada
+Davanagere
+Dharwad
+Gadag
+Hassan
+Haveri
+Kalaburagi
+Kodagu
+Kolar
+Koppal
+Mandya
+Mysuru
+Raichur
+Ramanagara
+Shivamogga
+Tumakuru
+Udupi
+Uttara Kannada
+Vijayanagara
+Yadgir
+
+KERALA:
+Alappuzha
+Ernakulam
+Idukki
+Kannur
+Kasaragod
+Kollam
+Kottayam
+Kozhikode
+Malappuram
+Palakkad
+Pathanamthitta
+Thiruvananthapuram
+Thrissur
+Wayanad
+
+MADHYA PRADESH:
+Agar Malwa
+Alirajpur
+Anuppur
+Ashoknagar
+Balaghat
+Barwani
+Betul
+Bhind
+Bhopal
+Burhanpur
+Chhatarpur
+Chhindwara
+Damoh
+Datia
+Dewas
+Dhar
+Dindori
+Guna
+Gwalior
+Harda
+Hoshangabad
+Indore
+Jabalpur
+Jhabua
+Katni
+Khandwa
+Khargone
+Mandla
+Mandsaur
+Morena
+Narsinghpur
+Neemuch
+Panna
+Raisen
+Rajgarh
+Ratlam
+Rewa
+Sagar
+Satna
+Sehore
+Seoni
+Shahdol
+Shajapur
+Sheopur
+Shivpuri
+Sidhi
+Singrauli
+Tikamgarh
+Ujjain
+Umaria
+Vidisha
+
+MAHARASHTRA:
+Ahmednagar
+Akola
+Amravati
+Aurangabad
+Beed
+Bhandara
+Buldhana
+Chandrapur
+Dhule
+Gadchiroli
+Gondia
+Hingoli
+Jalgaon
+Jalna
+Kolhapur
+Latur
+Mumbai City
+Mumbai Suburban
+Nagpur
+Nanded
+Nandurbar
+Nashik
+Osmanabad
+Palghar
+Parbhani
+Pune
+Raigad
+Ratnagiri
+Sangli
+Satara
+Sindhudurg
+Solapur
+Thane
+Wardha
+Washim
+Yavatmal
+
+TAMIL NADU:
+Ariyalur
+Chengalpattu
+Chennai
+Coimbatore
+Cuddalore
+Dharmapuri
+Dindigul
+Erode
+Kallakurichi
+Kanchipuram
+Kanyakumari
+Karur
+Krishnagiri
+Madurai
+Mayiladuthurai
+Nagapattinam
+Namakkal
+Nilgiris
+Perambalur
+Pudukkottai
+Ramanathapuram
+Ranipet
+Salem
+Sivaganga
+Tenkasi
+Thanjavur
+Theni
+Thoothukudi
+Tiruchirappalli
+Tirunelveli
+Tirupathur
+Tiruppur
+Tiruvallur
+Tiruvannamalai
+Tiruvarur
+Vellore
+Viluppuram
+Virudhunagar
+
+TELANGANA:
+Adilabad
+Bhadradri Kothagudem
+Hanumakonda
+Hyderabad
+Jagtial
+Jangaon
+Jayashankar Bhupalpally
+Jogulamba Gadwal
+Kamareddy
+Karimnagar
+Khammam
+Kumuram Bheem
+Mahabubabad
+Mahabubnagar
+Mancherial
+Medak
+Medchal-Malkajgiri
+Mulugu
+Nagarkurnool
+Nalgonda
+Narayanpet
+Nirmal
+Nizamabad
+Peddapalli
+Rajanna Sircilla
+Ranga Reddy
+Sangareddy
+Siddipet
+Suryapet
+Vikarabad
+Wanaparthy
+Warangal
+Yadadri Bhuvanagiri
