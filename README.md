@@ -44,6 +44,48 @@ Build an AI system that:
 
 ---
 
-## 🧩 System Architecture
+## 🏗 System Architecture
+
+The system follows a **modular, production-style architecture** where machine learning models, business logic, and user interface are cleanly separated.
+
+The user interacts only with a **React-based frontend**, while all predictions and decisions are handled by an **AI backend**.
+
+---
+
+### 🔹 High-Level Architecture
+
+---
+
+### 🔹 Data Flow Explanation
+
+1. **User Input**  
+   The user provides contextual information such as location, crop, season, and weather via the React UI.
+
+2. **API Communication**  
+   React sends the input data to the backend using REST APIs in JSON format.
+
+3. **Feature Engineering**  
+   The backend converts raw inputs into model-ready features using pre-trained encoders.
+
+4. **ML Predictions**  
+   Separate machine learning models predict:
+   - Expected Supply
+   - Expected Demand
+   - Expected Market Price
+
+5. **Decision Logic**  
+   A rule-based decision engine determines:
+   - Market status (Surplus / Balanced / Shortage)
+   - Whether planting the crop is recommended
+
+6. **Response Generation**  
+   Results are sent back to the frontend and displayed in a farmer-friendly format.
+
+---
+
+### 🔹 Technology Stack Mapping
+
+7.ML Model Used
+  XGBOOST
 
 
