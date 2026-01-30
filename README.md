@@ -1,35 +1,49 @@
 # DSCE
 
-Full-stack (FastAPI + React/Vite) app for predicting agriculture supply vs demand with a chatbot helper and production-style validation.
 
-## Features
-- FastAPI endpoints: `/options`, `/predict`, `/chat`, `/health`, `/healthcheck` using the models in `models/`
-- React UI (Vite) with EN/TA/HI labels, 5-crop charts over 20 years, and a floating chatbot popup
-- TinyLlama LoRA advisor ready: adapter weights are not committed; configs live under `llm/`
-- Scripts under `scripts/` for artifact validation, downloads, and conversions
+# 🌾 AI-Driven Food Supply–Demand Predictor  
+### Reducing Market Waste • Stabilizing Prices • Empowering Farmers
 
-## Backend setup
-1. `python -m venv .venv && .venv\Scripts\activate`
-2. `pip install -r requirements.txt`
-3. Run: `uvicorn api:app --reload --host 0.0.0.0 --port 8000`
+---
 
-## Frontend setup
-1. `cd frontend`
-2. `npm install`
-3. `npm run dev -- --host --port 5181` (or omit flags for the default Vite port)
-4. Set `VITE_API_URL` if the backend is not at `http://localhost:8000`
+## 🚀 Project Overview
 
-## Usage
-- Prediction UI: open the frontend dev server, fill fields, view charts, and chat
-- Health: `curl http://localhost:8000/health`
-- Options: `curl http://localhost:8000/options`
-- Chat: `curl -X POST http://localhost:8000/chat -H "Content-Type: application/json" -d "{\"message\":\"Hi\"}"`
+Agricultural markets often suffer from **supply–demand imbalance**, leading to:
 
-## Models and data
-- `models/` holds supply, demand, and price artifacts (PKL/JSON) plus encoders
-- Large assets are ignored: add your own `llm/tinyllama_agri_adapter/adapter_model.safetensors` and Hugging Face caches locally
-- `encoded_mappings.txt` provides code-to-name lookups for categories
+- ❌ Overproduction  
+- ❌ Price crashes or spikes  
+- ❌ Post-harvest losses  
+- ❌ Farmer income instability  
 
-## Notes
-- Keep virtualenvs, node_modules, and HF caches out of git (see `.gitignore`)
-- For production, build the UI with `npm run build` and serve the static output behind your API
+This project presents an **AI-powered decision-support system** that predicts **future supply, demand, and price trends** using historical market data and contextual factors — and then **advises whether planting a crop is recommended or not**.
+
+> 🎯 **Key idea:**  
+> Farmers should not enter prices or quantities they don’t know — the system predicts them.
+
+---
+
+## 🧠 What Makes This Project Different?
+
+✅ Not just prediction — **decision intelligence**  
+✅ Simple inputs, powerful outputs  
+✅ Built for **real farmers & market planners**  
+✅ Explainable and extensible (chatbot-ready)
+
+---
+
+## 🎯 Problem Statement
+
+> Agricultural markets frequently experience mismatches between food supply and consumer demand, resulting in food wastage, price volatility, and income loss for farmers.
+
+**Goal:**  
+Build an AI system that:
+- Predicts **future supply, demand, and prices**
+- Detects **market surplus or shortage**
+- Recommends **whether to plant a crop or not**
+- Helps reduce **food waste and risk**
+
+---
+
+## 🧩 System Architecture
+
+
