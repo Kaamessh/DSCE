@@ -6,32 +6,32 @@
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 Agricultural markets often suffer from **supply–demand imbalance**, leading to:
 
-- ❌ Overproduction  
-- ❌ Price crashes or spikes  
-- ❌ Post-harvest losses  
-- ❌ Farmer income instability  
+- -> Overproduction  
+- -> Price crashes or spikes  
+- -> Post-harvest losses  
+- -> Farmer income instability  
 
 This project presents an **AI-powered decision-support system** that predicts **future supply, demand, and price trends** using historical market data and contextual factors — and then **advises whether planting a crop is recommended or not**.
 
-> 🎯 **Key idea:**  
+🎯 **Key idea:**  
 > Farmers should not enter prices or quantities they don’t know — the system predicts them.
 
 ---
 
-## 🧠 What Makes This Project Different?
+##  What Makes This Project Different?
 
-✅ Not just prediction — **decision intelligence**  
-✅ Simple inputs, powerful outputs  
-✅ Built for **real farmers & market planners**  
-✅ Explainable and extensible (chatbot-ready)
+-> Not just prediction — **decision intelligence**  
+-> Simple inputs, powerful outputs  
+-> Built for **real farmers & market planners**  
+-> Explainable and extensible (chatbot-ready)
 
 ---
 
-## 🎯 Problem Statement
+## ** Problem Statement
 
 > Agricultural markets frequently experience mismatches between food supply and consumer demand, resulting in food wastage, price volatility, and income loss for farmers.
 
